@@ -1,0 +1,492 @@
+➜  CSCI3010_HW3 git:(main) ✗ ./bidToBuy UserFile.csv Bids.csv
+welcome to BidToBuy
+1: be a Buyer
+2: be a Seller
+3: exit
+pick a side: 2
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+1
+
+pls enter you product info:
+type name: iphone
+quality: new
+initial price: 100
+success adding products
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+2
+
+pls enter the product info you want to view:
+type name: iphone
+quality: new
+
+      product quality        product type        initital price        final price
+0      new                iphone            123            640            
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+3
+
+
+Currently no mail in the mailBox 
+do you want to respond any messages? Y/N  y
+
+enter username you want to respond: LongName6
+enter your responds: 
+ilovecsci3010
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+4
+
+current balance is: 5561
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+5
+
+enter username you want to rate: LongName6
+
+user current rating is: 0
+enter your rating: 3.6
+
+after rating, user rating is: 3.6
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+5
+
+enter username you want to rate: LongName6
+
+user current rating is: 3.6
+enter your rating: 3.2
+
+after rating, user rating is: 3.4
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+6 
+
+
+current info: 
+
+0 username: CoolGuy5
+1 address: 438 Ashford Drive
+2 phone: 7201100005
+
+pick a number to update: 2
+enter the phone number you want to change: 
+1234567890
+
+successful update info: 
+
+ username: CoolGuy5
+ address: 438 Ashford Drive
+ phone: 1234567890
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+7
+
+
+      Seller Name       productID        product type        product state        bids
+0      CoolGuy5            18                apartment            sold            closed
+1      CoolGuy5            3753                iphone            on sale            open
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+0
+
+welcome to BidToBuy
+1: be a Buyer
+2: be a Seller
+3: exit
+pick a side: 1
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+1
+
+    product ID         product type         product quality        price
+0   3753          iphone            new            100         
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+2
+
+enter the product id you want to bid: 3753
+enter how much you want to bid: 200
+sucess bidding
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+3
+
+
+message: ilovecsci3010     from user: CoolGuy5
+do you want to respond any messages? Y/N  y
+
+enter username you want to respond: CoolGuy5
+enter your responds: 
+Idont
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+4
+
+current balance is: 1036
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+5
+
+enter username you want to rate: CoolGuy5
+
+user current rating is: 0
+enter your rating: 1.2
+
+after rating, user rating is: 1.2
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+5
+
+enter username you want to rate: CoolGuy5
+
+user current rating is: 1.2
+enter your rating: 3.4
+
+after rating, user rating is: 2.3
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+6
+
+
+current info: 
+
+0 username: LongName6
+1 address: 502 Green Street
+2 Phone: 7201100025
+pick a number to update: 
+1
+enter the address you want to change: 
+nowhere
+
+successful update info: 
+
+ username: LongName6
+ address: nowhere
+ phone: 7201100025
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+7
+
+
+      Buyer Name       productID        product type        product state
+0      LongName6            25                dell            own
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+8
+
+
+      Product type          Product Quality         Bids($)
+       iphone                  new                     200
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+0
+
+welcome to BidToBuy
+1: be a Buyer
+2: be a Seller
+3: exit
+pick a side: 2
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+8
+
+enter the id of product you want to close: 3753
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+3
+
+
+message: Idont     from user: CoolGuy5
+do you want to respond any messages? Y/N  n
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+0
+
+welcome to BidToBuy
+1: be a Buyer
+2: be a Seller
+3: exit
+pick a side: 1
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+3
+
+
+message: congrats, you win the product!     from user: CoolGuy5
+message: ilovecsci3010     from user: CoolGuy5
+do you want to respond any messages? Y/N  n
+
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+7
+
+
+      Buyer Name       productID        product type        product state
+0      LongName6            25                dell            own
+1      LongName6            3753                iphone            own
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+4
+
+current balance is: 836
+0: back
+1: view products for sale
+2: palce bids
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view bought product
+8: view bid product
+9: exit
+0
+
+welcome to BidToBuy
+1: be a Buyer
+2: be a Seller
+3: exit
+pick a side: 2
+
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+4
+
+current balance is: 5761
+0: back
+1: post product for sale
+2: view similar products
+3: read and respond messages
+4: check balance
+5: rate user
+6: update info
+7: view product sold and yet to be sold
+8: close bids
+9: exit
+9
+
+➜  CSCI3010_HW3 git:(main) ✗ 
