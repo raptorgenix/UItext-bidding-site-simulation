@@ -1,1 +1,2 @@
 # CSCI3010_HW3
+This was a project done in class with a partner. We created a bidding website with a "database" (csv file) in a UI text simulation. The user can choose to be a buyer or seller, and then list products or list bids for products currently on the market. Users have balances that are checked before being able to bid, they may rate other users, and they may read/respond to messages. Check TextUI.cpp to view the core code driving functionality for this program as well as an overview of all available choices for the user. The application is compiled in bidToBuy.
